@@ -13,8 +13,8 @@ Enthusiast of everything related to technology.
 ```javascript
 const dcazabat = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python ],
-  tools: [NestJS, NextJS, ReactJS, Node, Styled-Components, React-Testing-library, Docker, Django, Django-Rest, Flask, Fast-API, Cypress ],
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, PHP, COBOL ],
+  tools: [NestJS, NextJS, ReactJS, Node, Styled-Components, React-Testing-library, Docker, Django, Django-Rest, Flask, Fast-API, Cypress, Laravel ],
   architecture: ["microfrontend", "miroservices","api-rest", "api-websocket", "design system pattern", "behavior-driven-development", "test-driven-development"],
 }
 ```
