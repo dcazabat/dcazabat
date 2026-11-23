@@ -47,7 +47,7 @@ Trabajo con clientes de IA como **OpenCode** y **Hermes**, y con agentes especia
 
 - **[face-age](https://github.com/dcazabat/face-age)** — app Flask + OpenCV que estima edad, género y emoción en tiempo real desde el navegador.
 - **[PyBMS](https://github.com/dcazabat/PyBMS)** — generador de mapas BMS para mainframe CICS, en Python con DearPyGUI.
-- **[api-pelis](https://github.com/dcazabat/api-pelis)** — API NestJS de usuarios con favoritos, desplegada en Koyeb.
+- **[api-pelis](https://github.com/dcazabat/api-pelis)** — API NestJS de usuarios con películas favoritas.
 - **[opencode-holographic](https://github.com/dcazabat/opencode-holographic)** — memoria de largo plazo para OpenCode sobre SQLite, compartida con Hermes.
 - **[mapssample](https://github.com/dcazabat/mapssample)** — mapa de OpenStreetMap con Leaflet.
 
